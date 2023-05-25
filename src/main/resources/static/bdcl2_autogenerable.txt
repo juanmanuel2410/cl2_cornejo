@@ -1,0 +1,1 @@
+create DATABASE cl2_cornejo;
